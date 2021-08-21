@@ -3,4 +3,4 @@ this is a simple and responsive Navbar works on cross devices.
 
 ![](img/desktop.png)
 
-<img align="right" width="100" height="100" src="img/mobile.png">
+<img align="center" width="400" height="400" src="img/mobile.png">
